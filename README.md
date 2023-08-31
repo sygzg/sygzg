@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏼 Hi, I'm Ezgi<br>👩🏻‍💻 IOS and Back-end Developer<br>🪴 I’m currently working on Python <br>🌻 I’m currently learning Java <br>🏫 I'm currently student from Mehmet Akif Ersoy University<br><br>-> if you wanna connect me other accounts <br>upwork and fiverr (4fe02853 and @ezgisyg)
+👋🏼 Hi, I'm Ezgi<br>👩🏻‍💻 Back-end Developer<br>🪴 I’m currently working on Python <br>🌻 I’m currently learning Swift <br>🏫 I'm currently student from Mehmet Akif Ersoy University<br><br>-> if you wanna connect me other accounts <br>upwork and fiverr (4fe02853 and @ezgisyg)
 
 
 
