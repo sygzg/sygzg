@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏼 Hi, I'm Ezgi<br>👩🏻‍💻 iOS and Back-end Developer<br>🪴 I’m currently working on Python and Swift# <br>🌻 I’m currently learning C# and React Native
+👋🏼 Hi, I'm Ezgi<br>👩🏻‍💻 iOS and Back-end Developer<br>🪴 I’m currently working on Python and Swift <br>🌻 I’m currently learning C# and React Native
 
 
 ## 🌐 Socials:
