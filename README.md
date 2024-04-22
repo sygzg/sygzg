@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋🏼 Hi, I'm Ezgi<br>👩🏻‍💻 Junior Developer<br>🪷 I’m currently working on Swift <br>🌷 I’m currently learning C# and React Native
+💫 About Me:<br>👋🏼 Hi, I'm Ezgi<br>👩🏻‍💻 Junior Developer<br>🪷 I’m currently working on Swift <br>🌷 I’m currently learning React Native
 
 
 ## 🌐 Socials:
